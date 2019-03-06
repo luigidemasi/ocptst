@@ -1,2 +1,2 @@
-FROM docker.io/https:2.4
+FROM docker.io/httpd:24
 ENTRYPOINT /bin/bash 

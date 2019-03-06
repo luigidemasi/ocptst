@@ -1,2 +1,2 @@
-FROM docker.io/httpd:24
+FROM docker.io/httpd:2.4
 ENTRYPOINT /bin/bash 
